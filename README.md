@@ -1,4 +1,7 @@
-# test coverage for  [dyson (v1.0.2)](https://github.com/webpro/dyson#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-dyson.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-dyson) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-dyson.svg)](https://travis-ci.org/npmtest/node-npmtest-dyson)
+# npmtest-dyson
+
+#### basic test coverage for  [dyson (v1.0.2)](https://github.com/webpro/dyson#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-dyson.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-dyson) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-dyson.svg)](https://travis-ci.org/npmtest/node-npmtest-dyson)
+
 #### Node server for dynamic, fake JSON.
 
 [![NPM](https://nodei.co/npm/dyson.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/dyson)
